@@ -12,6 +12,7 @@ def rle_encode(data: str):
 
     return encoding
 
+
 def rle_decode(data: str):
     decoding = ""
     i = 0

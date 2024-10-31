@@ -1,3 +1,5 @@
 .venv
 .idea
 __pycache__
+
+all_files/txt_files/output_files
